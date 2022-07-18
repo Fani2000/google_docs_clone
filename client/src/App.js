@@ -1,9 +1,9 @@
+import TextEditor from "./components/TextEditor";
+
 function App() {
   return (
     <div>
-      <header>
-        <h1>Welcome to google docs</h1>
-      </header>
+      <TextEditor />
     </div>
   );
 }
