@@ -23,6 +23,6 @@
 
 ## License by MIT License
 
-<footer>Authored By _Fani Keorapetse_</footer>
+Authored By _Fani Keorapetse_
 
 </details>
