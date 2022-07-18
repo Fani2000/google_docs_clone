@@ -4,10 +4,13 @@
   "description": "Google Docs clone backend using nodejs",
   "main": "index.js",
   "scripts": {
-	  "start":"node index.js",
-	  "dev": "nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Keorapetse Fani",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
 }
