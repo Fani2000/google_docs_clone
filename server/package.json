@@ -11,6 +11,7 @@
   "author": "Keorapetse Fani",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^6.4.5",
     "socket.io": "^4.5.1"
   }
 }
