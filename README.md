@@ -4,7 +4,7 @@
 
 [YouTube Link](https://www.youtube.com/watch?v=iRaelG7v0OU&list=TLPQMTYwNzIwMjJj6VUpPxeRmA&index=12)
 
-<details>
+
 
 ## Front-end - under client folder uses the following technologies
 
@@ -25,4 +25,3 @@
 
 Authored By _Fani Keorapetse_
 
-</details>
